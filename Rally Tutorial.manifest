@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<Manifest_Data Version="1.00">
+<ProjectFile>Rally Tutorial.camproj</ProjectFile>
+<Video_Objects>
+<FileName>capture-1.trec</FileName>
+<FileName>capture-2.trec</FileName>
+<FileName>capture-3.trec</FileName>
+<FileName>capture-4.trec</FileName>
+<FileName>capture-5.trec</FileName>
+<FileName>capture-6.trec</FileName>
+<FileName>capture-7.trec</FileName>
+<FileName>capture-8.trec</FileName>
+<FileName>capture-9.trec</FileName>
+<FileName>capture-10.trec</FileName>
+<FileName>capture-11.trec</FileName>
+<FileName>capture-12.trec</FileName>
+<FileName>capture-13.trec</FileName>
+<FileName>capture-14.trec</FileName>
+<FileName>capture-15.trec</FileName>
+</Video_Objects>
+<Callout_Objects>
+</Callout_Objects>
+<ClipBin_Objects>
+</ClipBin_Objects>
+<TitleClip_Objects>
+</TitleClip_Objects>
